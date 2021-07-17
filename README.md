@@ -1,5 +1,4 @@
-
-
+DRAFT and UNSTRUCTURED
 # sources
 Computer Systems Architecture
     https://www.infoq.com/architecture-design/
