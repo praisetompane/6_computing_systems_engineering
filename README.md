@@ -1,4 +1,4 @@
-# 6_software_architecture
+# 6_computer_systems_engineering
 DRAFT and UNSTRUCTURED
 # sources
 * MIT 6.033	Computer Systems Engineering (CI-M)
