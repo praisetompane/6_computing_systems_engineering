@@ -1,3 +1,2 @@
-  
-  #sources
-  https://github.com/sbt/sbt-assembly#merge-strategy
+# sources
+https://github.com/sbt/sbt-assembly#merge-strategy
